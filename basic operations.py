@@ -1,0 +1,7 @@
+a = int(input("Enter a "))
+b = int(input("Enter b "))
+print("Add of this two is ",a+b)
+print("Subtraction of this two is ",a-b)
+print("Multiplication of this two is ",a*b)
+print("Division of this two is ",a/b)
+print("a power b is ",a**b)
